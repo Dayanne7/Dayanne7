@@ -1,4 +1,4 @@
-### Hello there 👋
+### 👋 Hello there
 
 I'm Dayanne Coutinho!
 - <i>Currently:</i> MS CS Student at Federal University of Pernambuco. My research is about the LGBTQIA+ participation on Game Jams.
