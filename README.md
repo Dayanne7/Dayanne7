@@ -2,7 +2,7 @@
 
 👩‍🎓 MS Computer Science Student at Federal University of Pernambuco (UFPE)
 
-🎮 Game Developer at Solaris Mobile
+🎮 Game Developer / Frontend Developer / Designer
 
 ### Skills 💻🎨
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
